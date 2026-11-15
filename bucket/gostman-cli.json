@@ -1,12 +1,12 @@
 {
-    "version": "1.19.1",
+    "version": "1.20.0",
     "description": "Gostman command line: run collections in CI, send requests, mock, capture, and serve an MCP server for coding agents.",
     "homepage": "https://github.com/kunalgoesbyken/gostman",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kunalgoesbyken/gostman/releases/download/v1.19.1/gostman-cli-windows-amd64.zip",
-            "hash": "9d7dc9d39ba36ed6d21989f00039b1cacd17105ee39dffb50b5e4965935783a0"
+            "url": "https://github.com/kunalgoesbyken/gostman/releases/download/v1.20.0/gostman-cli-windows-amd64.zip",
+            "hash": "ffd1dbf843cbbfb2c40eaa31c4287e21a2e7a75cf168e76deffe2a1562ac14da"
         }
     },
     "bin": "gostman.exe",
