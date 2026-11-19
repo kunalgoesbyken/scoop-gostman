@@ -1,12 +1,12 @@
 {
-    "version": "1.20.1",
+    "version": "1.21.0",
     "description": "API client for REST, GraphQL, gRPC and WebSocket that you, your CI and your coding agent share. No account.",
     "homepage": "https://github.com/kunalgoesbyken/gostman",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kunalgoesbyken/gostman/releases/download/v1.20.1/Gostman-windows-amd64-portable.exe#/Gostman.exe",
-            "hash": "03fcaa72cf538d667fd3a5bedd0a5f8b9805a585c6a5d527867bc7f26bec5fa6"
+            "url": "https://github.com/kunalgoesbyken/gostman/releases/download/v1.21.0/Gostman-windows-amd64-portable.exe#/Gostman.exe",
+            "hash": "7899d438676dc032f69d7d28b57fb35d61193152fd24e6acc763869a49abe31a"
         }
     },
     "shortcuts": [
